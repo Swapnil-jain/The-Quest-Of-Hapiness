@@ -38,15 +38,12 @@ Level designing was done independently by four different members of the team. Ea
 ### 2.4 Coding
 The entire project has been coded in C#, which is the standard programming language of Unity. Various libraries like A* pathfinding project have been used as well. For each and every action in the game, from pressing spacebar to attack, playing a sound when enemy dies, to loading the next level when player meets a certain condition, has been done using functions in unity. Every action calls a particular function, which then further decides the course of action.
 
-###2.5 Animations
+### 2.5 Animations
 The built-in animator component of Unity was used. Using a bunch of closely resembling images, an animation is created. The animator component is then used to add logic to the animation, to define whether to loop or animation, or the function which will trigger the animation when a certain condition is met.
 
 ### 2.6 Final Compilation
 The final step was the addition background, props, effects, and music. This is followed by introduction of the character into the level, along with all the animations and coding. This also includes the creation of start page, pause menu and final credits scene. The logo of the game, the publisher, and the compatibility settings are then set up, and the first beta build is released.
 After the feedback from the beta testers, the game was improved upon accordingly, and the final game was released.
-
-
-
 
 
 If you want to know more: https://youtu.be/obvwhVPrPBs
