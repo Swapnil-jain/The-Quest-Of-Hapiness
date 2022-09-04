@@ -6,7 +6,7 @@ How to play the Game ?
 
 **WORKS ONLY ON WINDOWS**
 
-THE QUEST OF HAPPINESS is a single player 2D Platformer game. 
+**The Quest Of Happiness** is a single player 2D Platformer game. 
 Using Unity and various other tools, I have tried to replicate the game Mario, with newer technologies and better graphics, and renamed my version as "The Quest of Happiness"
 The game has the adventures of a hero, who is on search for happiness.  It have 3 levels, at the end of which, he is successfully able to achieve happiness. 
 There are enemies in each level and a certain number of coins to be collected, to successfully reach the next level.
