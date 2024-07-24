@@ -1,4 +1,4 @@
-# The Quest Of Happiness
+# The Quest For Happiness
 How to play the Game ?
 1. Download the file from https://bit.ly/3znQ3lW
 2. Unarchive it. Do not change/delete anything inside the unarchived folder.
